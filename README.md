@@ -37,4 +37,4 @@ You can clone this repsitory to get the source code
 
 ## Build
 
-The process of generating a .jar executable is guided by your IDE. If using NetBeans, please copy the `src/res` folder into the generated `dist` folder.
+The process of generating a .jar executable is guided by your IDE. If using NetBeans, please copy the `src/res/` path into the generated `dist/` folder.

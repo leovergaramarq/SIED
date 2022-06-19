@@ -1,0 +1,394 @@
+NOMBRES SECCIONES
+Voleibol acuático
+Baloncesto acuático
+Bodyboard
+Barrenar
+Piragüismo
+Kayak-polo
+Barco dragón
+Apnea
+Trampolín
+Carrera de lanchas motoras
+Esquí acuático
+Kayak
+Kitesurf
+Descenso de ríos
+Remo
+Vela
+Buceo
+Tubeo
+Surf
+Surf casting
+Natación
+Nado sincronizado
+Hockey acuático
+Wakeboard
+Skate acuático
+Waterpolo
+Skimboarding
+Vela ligera
+Windsurf
+Acrobacia aérea
+Aerostato
+Aeromodelismo
+Salto BASE
+Ala delta
+Paracaidismo
+Parapente
+Red Bull Air Race World Series
+Wingsuit
+Puenting
+Ski jumping
+Sky surfing
+Agarre
+Escalada
+Halterofilia
+Judo
+Tumbling
+Pesca
+Deportes de perros
+Carrera de camellos
+Pesca deportiva
+Carrera de palomas
+Arrastre de piedra
+Equitación
+Salto
+Adiestramiento
+Concurso completo
+Polo
+Hípica
+Rodeo chileno
+Pato
+Rodeo estadounidense
+Volteo
+Enduro Ecuestre
+Equinoterapia
+Enganches
+Salto alto
+Horseball
+Doma vaquera
+Buzkashi
+Coleo
+Charrería
+TREC
+Polocrosse
+Reining
+Movimiento de la rienda
+Dzhigitovka
+Carreras de carros
+Buzkashi
+Coleo de toros
+Cross-country
+Deporte de lazo
+Salto largo
+Turf
+Tent pegging
+Skijöring
+Enganches ecuestres
+Jineteada gaucha
+Automovilismo
+Arrancones
+Autocross
+Automovilismo de velocidad
+Autoslalom
+Carrera de destrucción
+Drifting
+Karting
+Rally
+Rallycross
+Rally raid
+Motociclismo
+Enduro
+Motociclismo estilo libre
+Motociclismo de velocidad
+Motocross
+Speedway
+Supermoto
+Superquad
+Snocross
+Trial
+Motonáutica
+Ciclismo artístico
+Polo en bicicleta
+BMX
+Bobrun
+Ciclo-cross
+Ciclismo de montaña
+Monociclismo de Montaña
+Ciclismo
+Ciclismo en pista
+Monociclo
+Ball Hockey
+Balompié
+Baloncesto
+Balonmano
+Bandy
+Balonmano playa
+Béisbol
+Brilé
+Bossaball
+Box / indoor lacrosse
+Bowling
+Broomball
+Camogie
+Canadian football
+Cheerleading
+Cricket
+Curling
+Dodgeball
+Eton Wall Game
+Hockey sobre césped
+Faustball
+Floorball
+Frisian handball
+Fútbol americano
+Fútbol australiano
+Fútbol de playa
+Futbolín
+Fútbol-Tenis
+Futsal
+Futvóley
+Fútbol gaélico
+Gaelic handball
+Gateball
+Golbol
+Handball
+Harrow Football
+Hide and seek gang tag
+Hornussen
+Horseshoe
+Hurling
+Hockey sobre hielo
+Indiaca
+Showbol
+Hockey sobre patines en línea
+Jugger
+Kabaddi
+Kickball
+Korfball
+Kronum
+Lacrosse
+Banda de marcha
+Juego de pelota mesoamericano
+Speedway
+Netball
+Oina
+Padbol
+Paintball
+Pelota vasca
+Pesäpallo
+Petanque
+Polo
+Polocrosse
+Ringette
+Rinkball
+Road hockey
+Roller Hockey
+Rounders
+Remo
+Royal Shrovetide Football
+Rugby
+Rugby playa
+Sepak Takraw
+Shinty
+Skater hockey
+Slamball
+Softball
+Speedball
+Spongee polo
+Surfboat
+Tchoukball
+Tenis
+Tennis de velocidad
+Tennis Polo
+Throwball
+Ultimate football
+Ultimate
+Underwater football
+Underwater hockey
+Underwater rugby
+Viperball
+Voleibol
+Voleibol de playa
+Wallyball
+Waterpolo
+Baloncesto en silla de ruedas
+Tenis en silla de ruedas
+Rugby en silla de ruedas
+Wiffle ball
+Air hockey
+Ajedrez
+Backgammon
+Juego de naipes
+Blackjack
+Bridge
+Poker
+Rummy
+Solitario
+Carrom
+Crokinole
+Novuss
+Pichenotte
+Pitchnut
+Checkers
+Chinese Checkers
+Connect Four
+Billar
+Billar francés
+Three-cushion
+Five-pins
+Balkline and straight rail
+Cushion caroms
+Four-ball
+Billar artístico
+several other variants
+Pocket billiards
+Bola 8
+Bola 9
+Straight pool
+One-pocket
+Bola 3
+Bola 7
+Bola 10
+Rotation
+Baseball pocket billiards
+Cribbage
+Bank pool
+Artistic pool
+Trick shot competition
+Speed pool
+Bowlliards
+Chicago
+Kelly pool
+Cutthroat
+Killer
+Russian pyramid
+many other variants
+Snooker
+Golf
+Snooker plus
+English billiards
+Bottle pool
+Cowboy
+Obstacle variations
+Bagatelle
+Bar billiards
+Bumper pool
+Dado
+Damas
+Dominó
+Juego del 15
+Go
+Go-moku
+Mancala
+Mahjong
+Monopoly
+Morris
+Payday
+Reversi
+Shōgi
+Scrabble
+Speedcubing
+Stratego
+Subbuteo
+Sudoku
+Fútbol de mesa
+Hockey de mesa
+Videojuego de lucha
+Street Fighter
+Super Smash Bros
+Marvel vs Capcom
+Tekken
+StarCraft: Brood War
+StarCraft II
+Warcraft III
+DoTA
+Dota 2
+League of Legends
+SMITE
+Heroes of the Storm
+Shooter en primera persona
+Doom
+Quake
+Counter-Strike
+Counter-Strike: Global Offensive
+Call of Duty
+Unreal Tournament
+Halo
+Painkiller
+Battlefield
+Alliance of Valiant Arms
+Overwatch
+Átlatl
+Baile deportivo
+Curling
+Barranquismo
+Casting
+Concursos de comer
+Danza en silla de ruedas
+Escalada
+Frisbee
+Fierljeppen
+hacky attack
+Golf
+Kabaddi
+Lanzamiento de bumerán
+Leñador
+Puentismo
+Ringo
+Skate agresivo
+Teterbol
+Twirl
+American handball
+Fives
+Baloncesto
+Netball
+Handball
+Fútbol tenis
+Artistic roller skating
+Bandy
+Bobrun Skating
+Heelys
+Hockey sobre hielo
+Ice Skating
+Inline speed skating
+Inline hockey
+Ringette
+Rinkball
+Rink hockey
+Skateboarding
+Freestyle slalom
+Roller derby
+Roller hockey
+Patín sobre ruedas tradicional
+Skater hockey
+Patinaje sobre hielo
+Synchronized skating
+Scootering
+Parkour
+Freerunning
+Bádminton
+Badminton de salón
+Crossbol
+Frontenis
+Cesta-punta
+Matkot
+Paddle
+Pelota vasca
+Frescobol
+Super Tennis
+Pington
+Padel
+Raquetbol
+Raquetas
+Raquetlón
+Jeu de Paume
+Soft tennis
+Speedbol
+Squash
+Squash tennis
+Sticke tennis
+Tenis
+Tenis de mesa
+Tennis Polo
+Xare

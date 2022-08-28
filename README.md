@@ -21,7 +21,7 @@ All commands are generated through Java **Lambda Expressions**.
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/LeonardoVergara/SIED.git
+    git clone https://github.com/vergaraldvm/SIED.git
 
 ## Usage
 
